@@ -274,7 +274,6 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 Cloud Solutions Professional | AWS Pre-Sales Engineer
 
 - Email: abhishek071700@gmail.com
-- LinkedIn: [linkedin.com/in/abhishek-pandey](https://linkedin.com/in/abhishek-pandey)
 - Location: Noida, Uttar Pradesh, India
 
 ---
