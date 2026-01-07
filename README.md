@@ -29,3 +29,7 @@ Each pillar is documented separately under the `pillars/` directory for clarity 
 ## Disclaimer
 This content is based on learning, hands-on exposure, and publicly available AWS best practices.  
 It is intended for educational and reference purposes.
+
+## How to Use
+Each pillar file can be reviewed independently during architecture discussions or pre-sales solution reviews.
+
